@@ -134,7 +134,7 @@ main img.pequena{
 
 main h1{
     color: var(--cor06);
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-destaque);
     font-size: 1.8em;
 }
 
